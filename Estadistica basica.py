@@ -40,3 +40,5 @@ frecuencias = estadisticas.frecc_numeros()
 print("Números:", frecuencias)
 
 estadisticas.histograma()
+
+print ("hola")
